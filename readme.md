@@ -16,10 +16,10 @@
 ---
 
 ## 🗂️ Proyectos destacados
-| Proyecto | Descripción | Demo / Repo |
-|----------|-------------|-------------|
-| Pokebingo | Bingo interactivo con Pokémon | [Repositorio Backend]([URL_DEL_REPO](https://github.com/boninifranco/Pokebingo_Back)) | [Repositorio Frontend]([URL_DEL_REPO](https://github.com/boninifranco/Pokebingo_Front))
-| Catálogo Bovino | Catálogo web interactivo para exposiciones rurales | [Ver repositorio]([URL_DEL_REPO](https://github.com/boninifranco/Demo-Remates)) | [Demo Online]([URL_DEL_REPO](https://boninifranco.github.io/Demo-Remates/))
+| Proyecto | Descripción | Repo | Demo |
+|----------|-------------|-------------|-------------|
+| Pokebingo | Bingo interactivo con Pokémon | [Repositorio Backend](https://github.com/boninifranco/Pokebingo_Back) | [Repositorio Frontend](https://github.com/boninifranco/Pokebingo_Front)
+| Catálogo Bovino | Catálogo web interactivo para exposiciones rurales | [Ver repositorio](https://github.com/boninifranco/Demo-Remates) | [Demo Online](https://boninifranco.github.io/Demo-Remates/)
 | Pokedéx Prueba Técnica | App React para entrevista técnica | [Ver repositorio](https://github.com/boninifranco/jr-fullstack-challenge) |
 
 ---
