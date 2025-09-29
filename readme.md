@@ -3,7 +3,7 @@
 💻 **Desarrollador Web Full-Stack Junior**  
 🎯 **Stack principal:** React · TypeScript · NestJS · SQL  
 🌱 **Aprendiendo:** Python, mejores prácticas, inglés técnico  
-🚀 **Meta actual:** crecer profesionalmente en desarrollo frontend  
+🚀 **Meta actual:** crecer profesionalmente en desarrollo fullstack  
 
 ---
 
@@ -18,7 +18,7 @@
 ## 🗂️ Proyectos destacados
 | Proyecto | Descripción | Repo | Demo |
 |----------|-------------|-------------|-------------|
-| Pokebingo | Bingo interactivo con Pokémon | [Repositorio Backend](https://github.com/boninifranco/Pokebingo_Back) | [Repositorio Frontend](https://github.com/boninifranco/Pokebingo_Front)
+| Pokebingo | Bingo interactivo con Pokémon | [Repo Backend](https://github.com/boninifranco/Pokebingo_Back) - [Repo Frontend](https://github.com/boninifranco/Pokebingo_Front) |
 | Catálogo Bovino | Catálogo web interactivo para exposiciones rurales | [Ver repositorio](https://github.com/boninifranco/Demo-Remates) | [Demo Online](https://boninifranco.github.io/Demo-Remates/)
 | Pokedéx Prueba Técnica | App React para entrevista técnica | [Ver repositorio](https://github.com/boninifranco/jr-fullstack-challenge) |
 
