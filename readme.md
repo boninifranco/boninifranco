@@ -30,6 +30,6 @@
 
 ## 📫 Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/francobonini/)
-- 📧 [Email](boninidev@gmail.com)  
+- 📧 [Email](mailto:boninidev@gmail.com)  
 
 ---
